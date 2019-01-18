@@ -13,5 +13,5 @@ Just run the Platformer_Own_M2.exe
 ## Authors
 
 * **Jordan O'Loughlin** [Madmitten](https://github.com/MadMitten)
-* **Thomas Jones** [Madmitten](https://github.com/MadMitten)
+* **Thomas Jones** [ThomasJ400](https://github.com/ThomasJ400)
 * **Elijah Omotosho ** [KingzShady](https://github.com/KingzShady)
