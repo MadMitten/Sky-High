@@ -4,7 +4,7 @@ This is a platforming game that I and two of my fellow classmates are currently 
 
 ## Getting Started
 
-To play this game you must have unity installed
+Just run the Platformer_Own_M2.exe
 
 ## Built With
 
