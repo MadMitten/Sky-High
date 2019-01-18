@@ -1,6 +1,6 @@
 # Project Title
 
-This is a platforming game that I and two of my fellow classmates are currently working on as an entry into our college's yearly games convention.
+This is a platforming game that I and two of my fellow classmates are currently working on as an entry into our college's yearly games convention * [Games Fleadh](http://gamesfleadh.ie/).
 
 ## Getting Started
 
