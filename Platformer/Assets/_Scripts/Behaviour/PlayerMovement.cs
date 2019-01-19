@@ -74,7 +74,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Vector2 v = rb.velocity;
         float mag = rb.velocity.magnitude;
-        Debug.Log("Magnitude: " + mag);
+        //Debug.Log("Magnitude: " + mag);
         if (mag>maxMag)
         {
             speed = 0;
