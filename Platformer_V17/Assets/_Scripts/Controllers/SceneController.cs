@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class SceneController : MonoBehaviour
 {
     public static SceneController instance = null;
-    int lastLevel = 3;
+    public int lastLevel = 3;
 
     void Awake()
     {

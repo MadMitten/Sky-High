@@ -1,0 +1,9 @@
+Each level needs to have all prefabs in controllers dragged in before play-testing.
+
+If you add more levels, make sure to add them to the build settings in order. This is to allow the scene change to it on the previous level.
+
+The door advances to the next level, and the key is required to activate the door.
+
+If starting at any level other than 1 for testing make sure to set current level in GameController object.
+Also change the lastLevel on the SceneController object.
+After lastLevel has been completed it will return you to the Menu.
