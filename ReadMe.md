@@ -4,7 +4,7 @@ This is a platforming game that I and two of my fellow classmates are currently 
 
 ## Getting Started
 
-To play this game you must have unity installed
+Just run the Platformer_Own_M2.exe
 
 ## Built With
 
@@ -13,5 +13,5 @@ To play this game you must have unity installed
 ## Authors
 
 * **Jordan O'Loughlin** [Madmitten](https://github.com/MadMitten)
-* **Thomas Jones** [Madmitten](https://github.com/MadMitten)
-* **Elijah Omotosho ** [KingzShady](https://github.com/KingzShady)
+* **Thomas Jones** [ThomasJ400](https://github.com/ThomasJ400)
+* **Elijah Omotosho** [KingzShady](https://github.com/KingzShady)
