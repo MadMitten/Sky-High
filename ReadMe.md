@@ -4,7 +4,7 @@ This is a platforming game that I and two of my fellow classmates are currently 
 
 ## Getting Started
 
-Just run the Platformer_Own_M2.exe
+Just run the Sky_High.exe
 
 ## Built With
 
