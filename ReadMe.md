@@ -1,6 +1,6 @@
 # Sky High
 
-This is a platformer game that I and two of my fellow classmates are developed as an entry into our college's yearly games convention [Games Fleadh](http://gamesfleadh.ie/).
+This is a platformer game that I and two of my fellow classmates have developed as an entry into our college's yearly games convention [Games Fleadh](http://gamesfleadh.ie/).
 
 ## Getting Started
 
