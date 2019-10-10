@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Platform
+  - Coin
+  - Key
+  - Enemy
+  - PlayerProjectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Background
+  - Controllers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Controllers
+    uniqueID: 1547546699
+    locked: 0
+  - name: Pen
+    uniqueID: 3203124707
+    locked: 0
+  - name: Sky
+    uniqueID: 2214349241
+    locked: 0
+  - name: Clouds
+    uniqueID: 3723773333
+    locked: 0
+  - name: Sea
+    uniqueID: 956207411
+    locked: 0
+  - name: Ground
+    uniqueID: 954793063
+    locked: 0
+  - name: BehindPlatforms
+    uniqueID: 1636719889
+    locked: 0
+  - name: Platforms
+    uniqueID: 254979015
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1694711591
+    locked: 0
+  - name: Collectables
+    uniqueID: 1837562135
+    locked: 0
+  - name: Player
+    uniqueID: 3382044079
+    locked: 0
